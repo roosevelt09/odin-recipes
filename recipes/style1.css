@@ -1,4 +1,8 @@
-.imgg {
+body {
+  background-color: AntiqueWhite;  
+  }
+  
+  .imgg {
     background-image: url(https://laroussecocina.mx/wp-content/uploads/2019/02/utensilios-de-cocina-escoge-1024x683.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -37,6 +41,7 @@
   
   .prep {
     line-height: 200%;
+    font-family: 'Amaranth', sans-serif;
   }
   
   h2 {
