@@ -1,0 +1,44 @@
+.imgg {
+    background-image: url(https://laroussecocina.mx/wp-content/uploads/2019/02/utensilios-de-cocina-escoge-1024x683.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 300px;
+    background-position: center;
+  }
+  
+  h1 {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+  }
+  .queso {
+    color: orange; 
+  }
+  
+  img[class=imagen] {
+    border: 5px solid yellow;
+    border-radius: 8px;
+    padding: 0px;
+    height: auto;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    filter: saturate(2);
+  }
+  
+  figcaption {
+    text-align: center;
+  }
+  
+  .line {
+    border-top: 3px dotted orange;
+  }
+  
+  .prep {
+    line-height: 200%;
+  }
+  
+  h2 {
+    text-align: center;
+  }
