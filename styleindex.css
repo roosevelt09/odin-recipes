@@ -1,0 +1,13 @@
+img[class="cocina"] {
+    border: 8px solid black;
+    border-radius: 8px;
+    padding: 0px;
+    height: auto;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  h1 {
+    text-align: center;
