@@ -12,3 +12,22 @@ img[class="cocina"] {
   h1 {
     text-align: center;
   }
+
+img[class="domplines"] {
+  width: 250px;
+  height: 150px;
+}
+
+img[class="salcocho"] {
+  width: 250px;
+  height: 150px;
+}
+
+img[class="flan"] {
+  width: 250px;
+  height: 150px;
+}
+
+p {
+  text-align: center;
+}
